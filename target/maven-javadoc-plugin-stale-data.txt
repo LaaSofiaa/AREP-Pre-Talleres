@@ -1,0 +1,40 @@
+@options
+@packages
+--class-path
+'C:/Users/laura/Desktop/AREP/Preparacion de Talleres/mi-primera-app/target/classes;C:/Users/laura/Desktop/AREP/Preparacion de Talleres/mi-primera-app/target/test-classes;C:/Users/laura/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/laura/Desktop/AREP/Preparacion de Talleres/mi-primera-app/src/test/java;C:/Users/laura/Desktop/AREP/Preparacion de Talleres/mi-primera-app/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/laura/Desktop/AREP/Preparacion de Talleres/mi-primera-app/target/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mi-primera-app 1.0-SNAPSHOT Test API'
+-use
+-version
+-windowtitle
+'mi-primera-app 1.0-SNAPSHOT Test API'
+edu.escuelaing.arem.ASE.app
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\src\test\java = 1737669782757
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\generated-test-sources\test-annotations = 1737670205850
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\allclasses-index.html = 1737672275691
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\allpackages-index.html = 1737672275695
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\element-list = 1737672275605
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\help-doc.html = 1737672275736
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\index-all.html = 1737672275719
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\index.html = 1737672275726
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\member-search-index.js = 1737672275705
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\module-search-index.js = 1737672275698
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\overview-tree.html = 1737672275670
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\package-search-index.js = 1737672275700
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\search.html = 1737672275723
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\tag-search-index.js = 1737672275707
+C:\Users\laura\Desktop\AREP\Preparacion de Talleres\mi-primera-app\target\testapidocs\type-search-index.js = 1737672275702
